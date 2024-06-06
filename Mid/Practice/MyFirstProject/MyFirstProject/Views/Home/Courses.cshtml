@@ -1,0 +1,48 @@
+﻿
+<main aria-labelledby="title">
+    <div class="container mt-5">
+        <h2 class="mb-4">@ViewBag.Message</h2>
+        <table class="table table-striped table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">Course ID</th>
+                    <th scope="col">Course Name</th>
+                    <th scope="col">Instructor</th>
+                    <th scope="col">Duration</th>
+                    <th scope="col">Start Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>CSE101</td>
+                    @ViewBag.CourseName = Introduction to Computer Science;
+                    <td><a href="/Home/CourseDetails/@ViewBag.CourseName"> Introduction to Computer Science </a></td>
+                    <td>Dr. John Smith</td>
+                    <td>10 weeks</td>
+                    <td>2023-06-01</td>
+                </tr>
+                <tr>
+                    <td>ENG201</td>
+                    <td>English Literature</td>
+                    <td>Prof. Jane Doe</td>
+                    <td>8 weeks</td>
+                    <td>2023-07-15</td>
+                </tr>
+                <tr>
+                    <td>MTH301</td>
+                    <td>Advanced Mathematics</td>
+                    <td>Dr. Alan Turing</td>
+                    <td>12 weeks</td>
+                    <td>2023-09-01</td>
+                </tr>
+                <tr>
+                    <td>PHY101</td>
+                    <td>General Physics</td>
+                    <td>Dr. Richard Feynman</td>
+                    <td>10 weeks</td>
+                    <td>2023-10-01</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</main>
