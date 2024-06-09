@@ -1,0 +1,14 @@
+﻿<ul>
+    @foreach (var student in ViewBag.Students)
+    {
+        <li>
+            <strong>Name:</strong> @student.Name<br />
+            <strong>Email:</strong> @student.Email<br />
+            <strong>Phone:</strong> @student.Phone<br />
+            <strong>Expertise:</strong> @student.Expertise<br />
+            <strong>First Degree Name:</strong> @student.Degrees[0].DegreeName <a href="/home/EducationDetails/@student.Id"> More About Education </a> <br />
+            <strong>Project :</strong> @student.Projects[0].ProjectTitle <a href="/home/ProjectDetails/@student.Id"> More About Project </a> <br />
+            <br />
+        </li>
+    }
+</ul>

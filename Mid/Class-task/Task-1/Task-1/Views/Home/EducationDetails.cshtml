@@ -1,0 +1,20 @@
+﻿<ul>
+    @foreach (var student in ViewBag.Students)
+    {
+        <li>
+            <strong>Degrees:</strong>
+            <ul>
+                @foreach (var degree in student.Degrees)
+                {
+                    <li>
+                        <strong>Degree Name:</strong> @degree.DegreeName<br />
+                        <strong>Result:</strong> @degree.Result<br />
+                        <strong>Passing Year:</strong> @degree.PassingYear<br />
+                        <strong>Group:</strong> @degree.Group<br />
+                        <strong>Institution:</strong> @degree.Institution
+                    </li>
+                }
+            </ul>
+        </li>
+    }
+</ul>
