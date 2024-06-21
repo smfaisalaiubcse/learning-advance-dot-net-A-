@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\Login-Signup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4BD3D6-6791-40A0-BE4B-4A3069CD04A1}|Login-Signup\\Login-Signup.csproj|d:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\login-signup\\login-signup\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4BD3D6-6791-40A0-BE4B-4A3069CD04A1}|Login-Signup\\Login-Signup.csproj|solutionrelative:login-signup\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4BD3D6-6791-40A0-BE4B-4A3069CD04A1}|Login-Signup\\Login-Signup.csproj|d:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\login-signup\\login-signup\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4BD3D6-6791-40A0-BE4B-4A3069CD04A1}|Login-Signup\\Login-Signup.csproj|solutionrelative:login-signup\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\Login-Signup\\Login-Signup\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Login-Signup\\Models\\Login.cs",
+              "ToolTip": "D:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\Login-Signup\\Login-Signup\\Models\\Login.cs",
+              "RelativeToolTip": "Login-Signup\\Models\\Login.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:08:52.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\Login-Signup\\Login-Signup\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Login-Signup\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\Login-Signup\\Login-Signup\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Login-Signup\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA5wCgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:06:31.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

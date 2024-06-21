@@ -3,23 +3,23 @@
   "WorkspaceRootPath": "D:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\MyFirstProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{584671F3-6C24-4AF2-B8BB-48F297466554}|MyFirstProject\\MyFirstProject.csproj|D:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\MyFirstProject\\myfirstproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584671F3-6C24-4AF2-B8BB-48F297466554}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584671F3-6C24-4AF2-B8BB-48F297466554}|MyFirstProject\\MyFirstProject.csproj|D:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\MyFirstProject\\myfirstproject\\views\\home\\coursedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{584671F3-6C24-4AF2-B8BB-48F297466554}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\views\\home\\coursedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{584671F3-6C24-4AF2-B8BB-48F297466554}|MyFirstProject\\MyFirstProject.csproj|d:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\myfirstproject\\myfirstproject\\views\\home\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{584671F3-6C24-4AF2-B8BB-48F297466554}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\views\\home\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{584671F3-6C24-4AF2-B8BB-48F297466554}|MyFirstProject\\MyFirstProject.csproj|d:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\myfirstproject\\myfirstproject\\views\\home\\coursedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{584671F3-6C24-4AF2-B8BB-48F297466554}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\views\\home\\coursedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{584671F3-6C24-4AF2-B8BB-48F297466554}|MyFirstProject\\MyFirstProject.csproj|d:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\myfirstproject\\myfirstproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{584671F3-6C24-4AF2-B8BB-48F297466554}|MyFirstProject\\MyFirstProject.csproj|D:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\MyFirstProject\\myfirstproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{584671F3-6C24-4AF2-B8BB-48F297466554}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{584671F3-6C24-4AF2-B8BB-48F297466554}|MyFirstProject\\MyFirstProject.csproj|d:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\myfirstproject\\myfirstproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{584671F3-6C24-4AF2-B8BB-48F297466554}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{584671F3-6C24-4AF2-B8BB-48F297466554}|MyFirstProject\\MyFirstProject.csproj|d:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\myfirstproject\\myfirstproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{584671F3-6C24-4AF2-B8BB-48F297466554}|MyFirstProject\\MyFirstProject.csproj|D:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\MyFirstProject\\myfirstproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{584671F3-6C24-4AF2-B8BB-48F297466554}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\MyFirstProject\\MyFirstProject\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MyFirstProject\\Views\\Home\\Index.cshtml",
@@ -42,8 +42,7 @@
               "RelativeToolTip": "MyFirstProject\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-06T06:21:07.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T06:21:07.58Z"
             },
             {
               "$type": "Document",
@@ -68,31 +67,30 @@
               "RelativeToolTip": "MyFirstProject\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAoAAAAAAAAAAAAAABoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-06T05:47:03.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T05:47:03.368Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Courses.cshtml",
               "DocumentMoniker": "D:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\MyFirstProject\\MyFirstProject\\Views\\Home\\Courses.cshtml",
               "RelativeDocumentMoniker": "MyFirstProject\\Views\\Home\\Courses.cshtml",
               "ToolTip": "D:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\MyFirstProject\\MyFirstProject\\Views\\Home\\Courses.cshtml",
               "RelativeToolTip": "MyFirstProject\\Views\\Home\\Courses.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-06T05:24:09.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\MyFirstProject\\MyFirstProject\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MyFirstProject\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\MyFirstProject\\MyFirstProject\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MyFirstProject\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAgwCUAAAAaAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T05:20:02.623Z",
               "EditorCaption": ""
