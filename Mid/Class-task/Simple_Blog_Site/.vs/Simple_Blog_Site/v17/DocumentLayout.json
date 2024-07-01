@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\simple_blog_site\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|solutionrelative:simple_blog_site\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\simple_blog_site\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|solutionrelative:simple_blog_site\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|e:\\education\\aiub\\11th semester\\dot net[a]\\mid\\class-task\\simple_blog_site\\simple_blog_site\\views\\user\\createblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|solutionrelative:simple_blog_site\\views\\user\\createblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\simple_blog_site\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|solutionrelative:simple_blog_site\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\simple_blog_site\\dtos\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|solutionrelative:simple_blog_site\\dtos\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\simple_blog_site\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|solutionrelative:simple_blog_site\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\simple_blog_site\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|solutionrelative:simple_blog_site\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\simple_blog_site\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|solutionrelative:simple_blog_site\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\simple_blog_site\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|solutionrelative:simple_blog_site\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\simple_blog_site\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|solutionrelative:simple_blog_site\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|e:\\education\\aiub\\11th semester\\dot net[a]\\mid\\class-task\\simple_blog_site\\simple_blog_site\\ef\\sbs.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|solutionrelative:simple_blog_site\\ef\\sbs.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\simple_blog_site\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|solutionrelative:simple_blog_site\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\simple_blog_site\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|solutionrelative:simple_blog_site\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\simple_blog_site\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|solutionrelative:simple_blog_site\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\simple_blog_site\\views\\registration\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|solutionrelative:simple_blog_site\\views\\registration\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\simple_blog_site\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|solutionrelative:simple_blog_site\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\simple_blog_site\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|solutionrelative:simple_blog_site\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\simple_blog_site\\auth\\useraccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|solutionrelative:simple_blog_site\\auth\\useraccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\simple_blog_site\\auth\\adminaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|solutionrelative:simple_blog_site\\auth\\adminaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\simple_blog_site\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|solutionrelative:simple_blog_site\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\simple_blog_site\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5326C02A-0716-4893-A9A1-E02CCA29C714}|Simple_Blog_Site\\Simple_Blog_Site.csproj|solutionrelative:simple_blog_site\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "createBlog.cshtml",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Views\\User\\createBlog.cshtml",
+              "RelativeDocumentMoniker": "Simple_Blog_Site\\Views\\User\\createBlog.cshtml",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Views\\User\\createBlog.cshtml",
+              "RelativeToolTip": "Simple_Blog_Site\\Views\\User\\createBlog.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAkwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T20:38:05.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Simple_Blog_Site\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Simple_Blog_Site\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwCoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:06:37.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogDTO.cs",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\DTOs\\BlogDTO.cs",
+              "RelativeDocumentMoniker": "Simple_Blog_Site\\DTOs\\BlogDTO.cs",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\DTOs\\BlogDTO.cs",
+              "RelativeToolTip": "Simple_Blog_Site\\DTOs\\BlogDTO.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA6wAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:12:41.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simple_Blog_Site\\Views\\Login\\Index.cshtml",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Simple_Blog_Site\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T08:29:58.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Simple_Blog_Site\\DTOs\\UserDTO.cs",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "Simple_Blog_Site\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T06:45:57.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Simple_Blog_Site\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Simple_Blog_Site\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:37:32.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simple_Blog_Site\\Views\\User\\Index.cshtml",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Simple_Blog_Site\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T08:07:22.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "Simple_Blog_Site\\Controllers\\RegistrationController.cs",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "Simple_Blog_Site\\Controllers\\RegistrationController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwBEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T06:37:08.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Simple_Blog_Site\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Simple_Blog_Site\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:06:53.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Simple_Blog_Site\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Simple_Blog_Site\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:03:20.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SBS.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\EF\\SBS.edmx",
+              "RelativeDocumentMoniker": "Simple_Blog_Site\\EF\\SBS.edmx",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\EF\\SBS.edmx [Diagram1]",
+              "RelativeToolTip": "Simple_Blog_Site\\EF\\SBS.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-30T20:11:29.479Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Simple_Blog_Site\\DTOs\\LoginDTO.cs",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "Simple_Blog_Site\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:39:08.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_UserLayout.cshtml",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeDocumentMoniker": "Simple_Blog_Site\\Views\\Shared\\_UserLayout.cshtml",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeToolTip": "Simple_Blog_Site\\Views\\Shared\\_UserLayout.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T08:23:32.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Views\\Registration\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simple_Blog_Site\\Views\\Registration\\Index.cshtml",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Views\\Registration\\Index.cshtml",
+              "RelativeToolTip": "Simple_Blog_Site\\Views\\Registration\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T08:13:22.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Views\\Registration\\Success.cshtml",
+              "RelativeDocumentMoniker": "Simple_Blog_Site\\Views\\Registration\\Success.cshtml",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Views\\Registration\\Success.cshtml",
+              "RelativeToolTip": "Simple_Blog_Site\\Views\\Registration\\Success.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T08:14:43.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Simple_Blog_Site\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Simple_Blog_Site\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T08:34:41.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Simple_Blog_Site\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Simple_Blog_Site\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T07:26:39.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminAccess.cs",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Auth\\AdminAccess.cs",
+              "RelativeDocumentMoniker": "Simple_Blog_Site\\Auth\\AdminAccess.cs",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Auth\\AdminAccess.cs",
+              "RelativeToolTip": "Simple_Blog_Site\\Auth\\AdminAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:04:43.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserAccess.cs",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Auth\\UserAccess.cs",
+              "RelativeDocumentMoniker": "Simple_Blog_Site\\Auth\\UserAccess.cs",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Auth\\UserAccess.cs",
+              "RelativeToolTip": "Simple_Blog_Site\\Auth\\UserAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:42:11.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simple_Blog_Site\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Simple_Blog_Site\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T08:07:11.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Logged.cs",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Auth\\Logged.cs",
+              "RelativeDocumentMoniker": "Simple_Blog_Site\\Auth\\Logged.cs",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Class-task\\Simple_Blog_Site\\Simple_Blog_Site\\Auth\\Logged.cs",
+              "RelativeToolTip": "Simple_Blog_Site\\Auth\\Logged.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:03:25.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

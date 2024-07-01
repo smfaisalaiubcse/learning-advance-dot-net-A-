@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\CustomValidation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCE59BFD-9931-4EB6-833D-979A6853247B}|CustomValidation\\CustomValidation.csproj|e:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\customvalidation\\customvalidation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCE59BFD-9931-4EB6-833D-979A6853247B}|CustomValidation\\CustomValidation.csproj|e:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\customvalidation\\customvalidation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCE59BFD-9931-4EB6-833D-979A6853247B}|CustomValidation\\CustomValidation.csproj|solutionrelative:customvalidation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE59BFD-9931-4EB6-833D-979A6853247B}|CustomValidation\\CustomValidation.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\CustomValidation\\customvalidation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCE59BFD-9931-4EB6-833D-979A6853247B}|CustomValidation\\CustomValidation.csproj|solutionrelative:customvalidation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE59BFD-9931-4EB6-833D-979A6853247B}|CustomValidation\\CustomValidation.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\CustomValidation\\customvalidation\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE59BFD-9931-4EB6-833D-979A6853247B}|CustomValidation\\CustomValidation.csproj|solutionrelative:customvalidation\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\CustomValidation\\CustomValidation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CustomValidation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\CustomValidation\\CustomValidation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CustomValidation\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T14:38:53.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\CustomValidation\\CustomValidation\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "CustomValidation\\Models\\Login.cs",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\CustomValidation\\CustomValidation\\Models\\Login.cs",
+              "RelativeToolTip": "CustomValidation\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:41:59.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\CustomValidation\\CustomValidation\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CustomValidation\\Controllers\\HomeController.cs",
               "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\CustomValidation\\CustomValidation\\Controllers\\HomeController.cs",
               "RelativeToolTip": "CustomValidation\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBQAAAAJAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T12:43:29.135Z",
               "EditorCaption": ""

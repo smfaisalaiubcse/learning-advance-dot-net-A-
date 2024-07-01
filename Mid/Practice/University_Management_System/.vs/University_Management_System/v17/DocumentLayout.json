@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\university_management_system\\ef\\ums.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|solutionrelative:university_management_system\\ef\\ums.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\university_management_system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|solutionrelative:university_management_system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|e:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\university_management_system\\university_management_system\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|solutionrelative:university_management_system\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\university_management_system\\ef\\ums.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|solutionrelative:university_management_system\\ef\\ums.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\university_management_system\\ef\\ums.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|solutionrelative:university_management_system\\ef\\ums.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\university_management_system\\ef\\ums.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|solutionrelative:university_management_system\\ef\\ums.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\university_management_system\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|solutionrelative:university_management_system\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|e:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\university_management_system\\university_management_system\\ef\\ums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|solutionrelative:university_management_system\\ef\\ums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\university_management_system\\ef\\ums.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|solutionrelative:university_management_system\\ef\\ums.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|e:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\university_management_system\\university_management_system\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|solutionrelative:university_management_system\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\university_management_system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|solutionrelative:university_management_system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\university_management_system\\ef\\ums.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|solutionrelative:university_management_system\\ef\\ums.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\university_management_system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|solutionrelative:university_management_system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\university_management_system\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|solutionrelative:university_management_system\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\university_management_system\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E4C0C191-2545-49D3-873E-532F044C0518}|University_Management_System\\University_Management_System.csproj|solutionrelative:university_management_system\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UMS.Designer.cs",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\EF\\UMS.Designer.cs",
+              "RelativeDocumentMoniker": "University_Management_System\\EF\\UMS.Designer.cs",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\EF\\UMS.Designer.cs",
+              "RelativeToolTip": "University_Management_System\\EF\\UMS.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:57:07.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UMS.edmx.diagram",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\EF\\UMS.edmx.diagram",
+              "RelativeDocumentMoniker": "University_Management_System\\EF\\UMS.edmx.diagram",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\EF\\UMS.edmx.diagram",
+              "RelativeToolTip": "University_Management_System\\EF\\UMS.edmx.diagram",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-28T18:59:15.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "University_Management_System\\DTOs\\LoginDTO.cs",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "University_Management_System\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:31:37.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "University_Management_System\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "University_Management_System\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowCsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:26:37.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UMS.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\EF\\UMS.edmx",
+              "RelativeDocumentMoniker": "University_Management_System\\EF\\UMS.edmx",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\EF\\UMS.edmx [Diagram1]",
+              "RelativeToolTip": "University_Management_System\\EF\\UMS.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-28T18:43:30.882Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UMS.Context.cs",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\EF\\UMS.Context.cs",
+              "RelativeDocumentMoniker": "University_Management_System\\EF\\UMS.Context.cs",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\EF\\UMS.Context.cs",
+              "RelativeToolTip": "University_Management_System\\EF\\UMS.Context.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:59:03.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\EF\\User.cs",
+              "RelativeDocumentMoniker": "University_Management_System\\EF\\User.cs",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\EF\\User.cs",
+              "RelativeToolTip": "University_Management_System\\EF\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:01:14.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UMS.cs",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\EF\\UMS.cs",
+              "RelativeDocumentMoniker": "University_Management_System\\EF\\UMS.cs",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\EF\\UMS.cs",
+              "RelativeToolTip": "University_Management_System\\EF\\UMS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T05:13:18.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UMS.tt",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\EF\\UMS.tt",
+              "RelativeDocumentMoniker": "University_Management_System\\EF\\UMS.tt",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\EF\\UMS.tt",
+              "RelativeToolTip": "University_Management_System\\EF\\UMS.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-28T18:59:18.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "University_Management_System\\Views\\Home\\Login.cshtml",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "University_Management_System\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T19:04:13.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "University_Management_System\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "University_Management_System\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T18:12:39.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UMS.Context.tt",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\EF\\UMS.Context.tt",
+              "RelativeDocumentMoniker": "University_Management_System\\EF\\UMS.Context.tt",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\EF\\UMS.Context.tt",
+              "RelativeToolTip": "University_Management_System\\EF\\UMS.Context.tt",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-28T18:57:09.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\Views\\Web.config",
+              "RelativeDocumentMoniker": "University_Management_System\\Views\\Web.config",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\Views\\Web.config",
+              "RelativeToolTip": "University_Management_System\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-28T18:12:46.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "University_Management_System\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "University_Management_System\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T18:13:00.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "University_Management_System\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\University_Management_System\\University_Management_System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "University_Management_System\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T18:10:12.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
