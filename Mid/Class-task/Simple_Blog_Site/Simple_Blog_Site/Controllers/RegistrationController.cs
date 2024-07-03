@@ -36,6 +36,7 @@ namespace Simple_Blog_Site.Controllers
                 Type = "User",
                 Email = u.Email,
                 Password = u.Password,
+                FullName = u.FullName,
             };
         }
         public ActionResult Success()

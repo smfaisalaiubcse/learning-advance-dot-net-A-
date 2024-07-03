@@ -25,6 +25,7 @@ namespace Simple_Blog_Site.EF
         public string UName { get; set; }
         public string Type { get; set; }
         public string Password { get; set; }
+        public string FullName { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Blog> Blogs { get; set; }

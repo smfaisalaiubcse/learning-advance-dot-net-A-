@@ -4,6 +4,7 @@
     <EntitySetMapping Name="Blogs">
       <EntityTypeMapping TypeName="Simple_Blog_SiteModel.Blog">
         <MappingFragment StoreEntitySet="Blogs">
+          <ScalarProperty Name="UserFullName" ColumnName="UserFullName" />
           <ScalarProperty Name="Id" ColumnName="Id" />
           <ScalarProperty Name="Title" ColumnName="Title" />
           <ScalarProperty Name="BlogData" ColumnName="BlogData" />
@@ -18,6 +19,7 @@
     <EntitySetMapping Name="Users">
       <EntityTypeMapping TypeName="Simple_Blog_SiteModel.User">
         <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="FullName" ColumnName="FullName" />
           <ScalarProperty Name="Id" ColumnName="Id" />
           <ScalarProperty Name="Email" ColumnName="Email" />
           <ScalarProperty Name="UName" ColumnName="UName" />

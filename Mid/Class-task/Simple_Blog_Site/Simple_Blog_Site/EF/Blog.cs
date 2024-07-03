@@ -22,6 +22,7 @@ namespace Simple_Blog_Site.EF
         public int LikeCount { get; set; }
         public int DislikeCount { get; set; }
         public int CommentCount { get; set; }
+        public string UserFullName { get; set; }
     
         public virtual User User { get; set; }
     }

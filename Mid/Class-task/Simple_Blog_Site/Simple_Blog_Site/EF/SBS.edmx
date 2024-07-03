@@ -4,7 +4,7 @@
   <edmx:Runtime>
     <!-- SSDL content -->
     <edmx:StorageModels>
-      <Schema Namespace="Simple_Blog_SiteModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+    <Schema Namespace="Simple_Blog_SiteModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
         <EntityType Name="Blogs">
           <Key>
             <PropertyRef Name="Id" />
@@ -13,6 +13,7 @@
           <Property Name="Title" Type="varchar" MaxLength="50" Nullable="false" />
           <Property Name="BlogData" Type="varchar" MaxLength="50" Nullable="false" />
           <Property Name="BlogTime" Type="datetime" Nullable="false" />
+          <Property Name="UserFullName" Type="nchar" MaxLength="10" Nullable="false" />
           <Property Name="UId" Type="int" Nullable="false" />
           <Property Name="LikeCount" Type="int" Nullable="false" />
           <Property Name="DislikeCount" Type="int" Nullable="false" />
@@ -24,6 +25,7 @@
           </Key>
           <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="Email" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="FullName" Type="varchar" MaxLength="50" Nullable="false" />
           <Property Name="UName" Type="varchar" MaxLength="50" Nullable="false" />
           <Property Name="Type" Type="varchar" MaxLength="50" Nullable="false" />
           <Property Name="Password" Type="varchar" MaxLength="50" Nullable="false" />
@@ -48,8 +50,7 @@
             <End Role="Blogs" EntitySet="Blogs" />
           </AssociationSet>
         </EntityContainer>
-      </Schema>
-    </edmx:StorageModels>
+      </Schema></edmx:StorageModels>
     <!-- CSDL content -->
     <edmx:ConceptualModels>
       <Schema Namespace="Simple_Blog_SiteModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
@@ -66,6 +67,7 @@
           <Property Name="DislikeCount" Type="Int32" Nullable="false" />
           <Property Name="CommentCount" Type="Int32" Nullable="false" />
           <NavigationProperty Name="User" Relationship="Self.FK_Blogs_Users" FromRole="Blogs" ToRole="Users" />
+          <Property Name="UserFullName" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="true" />
         </EntityType>
         <EntityType Name="User">
           <Key>
@@ -77,6 +79,7 @@
           <Property Name="Type" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
           <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
           <NavigationProperty Name="Blogs" Relationship="Self.FK_Blogs_Users" FromRole="Users" ToRole="Blogs" />
+          <Property Name="FullName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
         </EntityType>
         <Association Name="FK_Blogs_Users">
           <End Role="Users" Type="Self.User" Multiplicity="1" />
@@ -107,6 +110,7 @@
           <EntitySetMapping Name="Blogs">
             <EntityTypeMapping TypeName="Simple_Blog_SiteModel.Blog">
               <MappingFragment StoreEntitySet="Blogs">
+                <ScalarProperty Name="UserFullName" ColumnName="UserFullName" />
                 <ScalarProperty Name="Id" ColumnName="Id" />
                 <ScalarProperty Name="Title" ColumnName="Title" />
                 <ScalarProperty Name="BlogData" ColumnName="BlogData" />
@@ -121,6 +125,7 @@
           <EntitySetMapping Name="Users">
             <EntityTypeMapping TypeName="Simple_Blog_SiteModel.User">
               <MappingFragment StoreEntitySet="Users">
+                <ScalarProperty Name="FullName" ColumnName="FullName" />
                 <ScalarProperty Name="Id" ColumnName="Id" />
                 <ScalarProperty Name="Email" ColumnName="Email" />
                 <ScalarProperty Name="UName" ColumnName="UName" />

@@ -19,6 +19,8 @@
                 <ul class="navbar-nav flex-grow-1">
                     <li>@Html.ActionLink("Index", "Index", "User", new { area = "" }, new { @class = "nav-link" })</li>
                     <li>@Html.ActionLink("Search", "Search", "User", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("createBlog", "createBlog", "User", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("viewAllBlogsByMe", "viewAllBlogsByMe", "User", new { area = "" }, new { @class = "nav-link" })</li>
                     <li>@Html.ActionLink("Profile", "Profile", "User", new { area = "" }, new { @class = "nav-link" })</li>
                     <div class="top-right">
                         <form action="/User/Logout" method="get">

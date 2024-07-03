@@ -8,6 +8,7 @@
     <Property Name="Title" Type="varchar" MaxLength="50" Nullable="false" />
     <Property Name="BlogData" Type="varchar" MaxLength="50" Nullable="false" />
     <Property Name="BlogTime" Type="datetime" Nullable="false" />
+    <Property Name="UserFullName" Type="nchar" MaxLength="10" Nullable="false" />
     <Property Name="UId" Type="int" Nullable="false" />
     <Property Name="LikeCount" Type="int" Nullable="false" />
     <Property Name="DislikeCount" Type="int" Nullable="false" />
@@ -19,6 +20,7 @@
     </Key>
     <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="Email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="FullName" Type="varchar" MaxLength="50" Nullable="false" />
     <Property Name="UName" Type="varchar" MaxLength="50" Nullable="false" />
     <Property Name="Type" Type="varchar" MaxLength="50" Nullable="false" />
     <Property Name="Password" Type="varchar" MaxLength="50" Nullable="false" />

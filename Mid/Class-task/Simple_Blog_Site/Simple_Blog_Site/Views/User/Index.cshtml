@@ -1,4 +1,4 @@
-﻿@model Simple_Blog_Site.DTOs.BlogDTO
+﻿@model Simple_Blog_Site.Models.BlogViewModel
 
 @{
     ViewBag.Title = "createBlog";
@@ -20,28 +20,91 @@
         <hr />
         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
         <div class="form-group">
-            @Html.LabelFor(model => model.Title, htmlAttributes: new { @class = "control-label col-md-2" })
+            @Html.LabelFor(model => model.NewBlog.Title, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.Title, new { htmlAttributes = new { @class = "form-control" } })
-                @Html.ValidationMessageFor(model => model.Title, "", new { @class = "text-danger" })
+                @Html.EditorFor(model => model.NewBlog.Title, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.NewBlog.Title, "", new { @class = "text-danger" })
             </div>
         </div>
 
         <div class="form-group">
-            @Html.LabelFor(model => model.BlogData, htmlAttributes: new { @class = "control-label col-md-2" })
+            @Html.LabelFor(model => model.NewBlog.BlogData, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.BlogData, new { htmlAttributes = new { @class = "form-control" } })
-                @Html.ValidationMessageFor(model => model.BlogData, "", new { @class = "text-danger" })
+                @Html.EditorFor(model => model.NewBlog.BlogData, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.NewBlog.BlogData, "", new { @class = "text-danger" })
             </div>
         </div>
 
         <div class="form-group">
             <div class="col-md-offset-2 col-md-10">
-                <input type="submit" value="Create" class="btn btn-default" />
+                <input type="submit" value="Post" class="btn btn-outline-success" />
             </div>
         </div>
     </div>
 }
+
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NewBlog.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NewBlog.BlogData)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NewBlog.BlogTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NewBlog.UserFullName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NewBlog.LikeCount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NewBlog.DislikeCount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NewBlog.CommentCount)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model.AllBlogs)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BlogData)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BlogTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserFullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LikeCount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DislikeCount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CommentCount)
+            </td>
+            <td>
+                @Html.ActionLink("Like", "Like", new { id = item.Id }) |
+                @Html.ActionLink("DisLike", "DisLike", new { id = item.Id }) |
+                @Html.ActionLink("Comment", "Comment", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>
+
 
 <div>
     @Html.ActionLink("Back to List", "Index")

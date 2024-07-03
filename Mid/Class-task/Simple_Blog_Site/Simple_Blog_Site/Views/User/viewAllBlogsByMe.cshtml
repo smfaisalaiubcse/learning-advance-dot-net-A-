@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Simple_Blog_Site.DTOs.BlogDTO>
+
+@{
+    ViewBag.Title = "viewAllBlogs";
+    //Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h2>viewAllBlogs</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BlogData)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BlogTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LikeCount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DislikeCount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CommentCount)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BlogData)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BlogTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LikeCount)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DislikeCount)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CommentCount)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

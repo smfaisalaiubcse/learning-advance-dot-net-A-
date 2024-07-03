@@ -18,5 +18,6 @@ namespace Simple_Blog_Site.DTOs
         public int LikeCount { get; set; }
         public int DislikeCount { get; set; }
         public int CommentCount { get; set; }
+        public string UserFullName { get; set; }
     }
 }

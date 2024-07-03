@@ -34,6 +34,7 @@ namespace Simple_Blog_Site.Controllers
                 Session["user"] = user;
                 //Session["id"] = ((UserDTO)Session["user"]).Id;
                 TempData["userId"] = user.Id;
+                TempData["FullName"] = user.FullName;
                 TempData["Msg"] = "Login Successfull as "+user.Type;
                 if (user.Type.Equals("User"))
                 {
