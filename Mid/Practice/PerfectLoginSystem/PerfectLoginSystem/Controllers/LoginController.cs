@@ -33,7 +33,7 @@ namespace PerfectLoginSystem.Controllers
                 }
                 Session["user"] = user;
                 TempData["userId"] = user.Id;
-                return RedirectToAction("Index", "Dashboard");
+                return RedirectToAction("Index", "Admin");
             }
             return View(l);
         }

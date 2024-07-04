@@ -3,48 +3,64 @@
   "WorkspaceRootPath": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|e:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\perfectloginsystem\\perfectloginsystem\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|solutionrelative:perfectloginsystem\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|e:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\perfectloginsystem\\perfectloginsystem\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|solutionrelative:perfectloginsystem\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|e:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\perfectloginsystem\\perfectloginsystem\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|solutionrelative:perfectloginsystem\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|e:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\perfectloginsystem\\perfectloginsystem\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|solutionrelative:perfectloginsystem\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|e:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\perfectloginsystem\\perfectloginsystem\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|solutionrelative:perfectloginsystem\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\perfectloginsystem\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|solutionrelative:perfectloginsystem\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|e:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\perfectloginsystem\\perfectloginsystem\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|solutionrelative:perfectloginsystem\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\perfectloginsystem\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|solutionrelative:perfectloginsystem\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|e:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\perfectloginsystem\\perfectloginsystem\\efs\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|solutionrelative:perfectloginsystem\\efs\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|e:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\perfectloginsystem\\perfectloginsystem\\efs\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|solutionrelative:perfectloginsystem\\efs\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|e:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\perfectloginsystem\\perfectloginsystem\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|solutionrelative:perfectloginsystem\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\perfectloginsystem\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|solutionrelative:perfectloginsystem\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|e:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\perfectloginsystem\\perfectloginsystem\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\perfectloginsystem\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|solutionrelative:perfectloginsystem\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|e:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\perfectloginsystem\\perfectloginsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|solutionrelative:perfectloginsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\perfectloginsystem\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|solutionrelative:perfectloginsystem\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\perfectloginsystem\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|solutionrelative:perfectloginsystem\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\perfectloginsystem\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|solutionrelative:perfectloginsystem\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|e:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\perfectloginsystem\\perfectloginsystem\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|solutionrelative:perfectloginsystem\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|e:\\education\\aiub\\11th semester\\dot net[a]\\mid\\practice\\perfectloginsystem\\perfectloginsystem\\auth\\adminaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|solutionrelative:perfectloginsystem\\auth\\adminaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\perfectloginsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|solutionrelative:perfectloginsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\perfectloginsystem\\efs\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|solutionrelative:perfectloginsystem\\efs\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\perfectloginsystem\\efs\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6570B3A3-AF1D-455E-83AB-77BB2EDD652C}|PerfectLoginSystem\\PerfectLoginSystem.csproj|solutionrelative:perfectloginsystem\\efs\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,66 +79,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "PerfectLoginSystem\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "PerfectLoginSystem\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PerfectLoginSystem\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "PerfectLoginSystem\\Views\\Admin\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-03T19:01:33.692Z",
+              "WhenOpened": "2024-07-04T05:01:03.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "PerfectLoginSystem\\Views\\Login\\Index.cshtml",
-              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "PerfectLoginSystem\\Views\\Login\\Index.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "PerfectLoginSystem\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "PerfectLoginSystem\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwBQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-03T18:26:06.625Z",
+              "WhenOpened": "2024-07-04T04:25:15.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "PerfectLoginSystem\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "PerfectLoginSystem\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA+wDIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T04:12:06.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\DTOs\\UserDTO.cs",
-              "RelativeDocumentMoniker": "PerfectLoginSystem\\DTOs\\UserDTO.cs",
-              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\DTOs\\UserDTO.cs",
-              "RelativeToolTip": "PerfectLoginSystem\\DTOs\\UserDTO.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAYwA8AAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T16:08:58.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "RegistrationController.cs",
               "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Controllers\\RegistrationController.cs",
               "RelativeDocumentMoniker": "PerfectLoginSystem\\Controllers\\RegistrationController.cs",
               "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Controllers\\RegistrationController.cs",
               "RelativeToolTip": "PerfectLoginSystem\\Controllers\\RegistrationController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwB0AAABIAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T13:57:11.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\EFs\\User.cs",
-              "RelativeDocumentMoniker": "PerfectLoginSystem\\EFs\\User.cs",
-              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\EFs\\User.cs",
-              "RelativeToolTip": "PerfectLoginSystem\\EFs\\User.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBMAAAAqAAAA",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "PerfectLoginSystem\\Views\\Login\\Index.cshtml",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "PerfectLoginSystem\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T18:26:06.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "PerfectLoginSystem\\DTOs\\UserDTO.cs",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "PerfectLoginSystem\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAUwCEAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T18:35:35.204Z",
+              "WhenOpened": "2024-07-03T16:08:58.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PerfectLoginSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PerfectLoginSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwA4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T04:23:11.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Views\\Registration\\Index.cshtml",
+              "RelativeDocumentMoniker": "PerfectLoginSystem\\Views\\Registration\\Index.cshtml",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Views\\Registration\\Index.cshtml",
+              "RelativeToolTip": "PerfectLoginSystem\\Views\\Registration\\Index.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAACYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T17:46:56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "PerfectLoginSystem\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "PerfectLoginSystem\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:48:57.315Z",
               "EditorCaption": ""
             },
             {
@@ -140,46 +208,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "PerfectLoginSystem\\Controllers\\LoginController.cs",
-              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "PerfectLoginSystem\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAxwBgAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T13:48:57.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Views\\Registration\\Index.cshtml",
-              "RelativeDocumentMoniker": "PerfectLoginSystem\\Views\\Registration\\Index.cshtml",
-              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Views\\Registration\\Index.cshtml",
-              "RelativeToolTip": "PerfectLoginSystem\\Views\\Registration\\Index.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAACYAAAAfAAAA",
+              "DocumentIndex": 10,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "PerfectLoginSystem\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "PerfectLoginSystem\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBUAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-03T17:46:56Z",
+              "WhenOpened": "2024-07-04T04:23:03.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "PerfectLoginSystem\\Controllers\\DashboardController.cs",
-              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "PerfectLoginSystem\\Controllers\\DashboardController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "DocumentIndex": 11,
+              "Title": "AdminAccess.cs",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Auth\\AdminAccess.cs",
+              "RelativeDocumentMoniker": "PerfectLoginSystem\\Auth\\AdminAccess.cs",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Auth\\AdminAccess.cs",
+              "RelativeToolTip": "PerfectLoginSystem\\Auth\\AdminAccess.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T18:25:01.857Z",
+              "WhenOpened": "2024-07-04T04:13:16.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "Model1.edmx [Diagram1]",
               "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\EFs\\Model1.edmx",
               "RelativeDocumentMoniker": "PerfectLoginSystem\\EFs\\Model1.edmx",
@@ -191,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "PerfectLoginSystem\\Controllers\\HomeController.cs",
@@ -201,6 +256,18 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T13:46:27.968Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\EFs\\User.cs",
+              "RelativeDocumentMoniker": "PerfectLoginSystem\\EFs\\User.cs",
+              "ToolTip": "E:\\Education\\AIUB\\11th semester\\Dot NET[A]\\Mid\\Practice\\PerfectLoginSystem\\PerfectLoginSystem\\EFs\\User.cs",
+              "RelativeToolTip": "PerfectLoginSystem\\EFs\\User.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:35:35.204Z"
             }
           ]
         }

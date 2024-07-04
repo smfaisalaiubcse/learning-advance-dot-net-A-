@@ -36,7 +36,8 @@ namespace PerfectLoginSystem.Controllers
             return new User
             {
                 Id = u.Id,
-                FullName = u.FirstName + u.LastName,
+                Type = "User",
+                FullName = u.FirstName + " " + u.LastName,
                 Gender = u.Gender,
                 DOB = u.DOB,
                 Password = u.Password,

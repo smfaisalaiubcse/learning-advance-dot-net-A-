@@ -20,5 +20,6 @@ namespace PerfectLoginSystem.EFs
         public string Gender { get; set; }
         public System.DateTime DOB { get; set; }
         public string Password { get; set; }
+        public string Type { get; set; }
     }
 }
